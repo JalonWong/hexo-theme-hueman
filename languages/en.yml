@@ -1,6 +1,5 @@
 index:
-  home: 'Home'
-  about: 'About'
+  home: 'home'
   search: 'Search'
   archive: 'archive'
   category: 'category : '
